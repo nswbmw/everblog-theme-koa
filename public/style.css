@@ -32,7 +32,7 @@ section:not(:last-child) {
 }
 
 section:not(#top) {
-  padding: 100px;
+  padding: 50px;
   text-align: center;
 }
 
@@ -67,16 +67,6 @@ h1 {
 
 h1:not(:first-child) {
   margin-top: 50px;
-}
-
-h2 {
-  margin-top: 80px;
-  font-size: 1.2em;
-}
-
-h3 {
-  margin-top: 40px;
-  font-size: 1em;
 }
 
 ul li {
